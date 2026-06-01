@@ -1,4 +1,4 @@
-package top.fmutren.ftps;
+package top.fmutren.ftpa;
 
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.text.ClickEvent;

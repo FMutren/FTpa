@@ -7,11 +7,11 @@
   "authors": [],
   "contact": {},
   "license": "GPL-3.0",
-  "icon": "assets/ftps/icon.png",
+  "icon": "assets/ftpa/icon.jpg",
   "environment": "server",
   "entrypoints": {
     "main": [
-      "top.fmutren.ftps.FTpa"
+      "top.fmutren.ftpa.FTpa"
     ]
   },
   "depends": {

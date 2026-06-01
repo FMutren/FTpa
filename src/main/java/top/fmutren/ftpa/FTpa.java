@@ -1,4 +1,4 @@
-package top.fmutren.ftps;
+package top.fmutren.ftpa;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
@@ -9,7 +9,7 @@ import net.minecraft.server.command.CommandManager;
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.text.Text;
 
-import static top.fmutren.ftps.TeleportEvent.*;
+import static top.fmutren.ftpa.TeleportEvent.*;
 
 public class FTpa implements ModInitializer {
 

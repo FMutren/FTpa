@@ -1,4 +1,4 @@
-package top.fmutren.ftps;
+package top.fmutren.ftpa;
 
 public class Config {
 
